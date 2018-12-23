@@ -15,6 +15,8 @@ public class ApplicationMethods {
 	//analyzeText()
 	//Master function for event listener
 	//-----------------------------------------------------------------------
+	
+	//This is my second commit fo GITHUB
 	public static void analyzeText(TextArea userInputTextArea, Label totalWordsTarget,
 					Label uniqueWordsTarget, Label totalCharsTarget, VBox wordFrequencyTarget) {
 		
